@@ -1,4 +1,5 @@
 <h2 align="left">Hello there, I am Sora from Germany!</h2>
+<h1 align="left"> I can speak: 🇩🇪, 🇬🇧 and a bit 🇯🇵
 
 ###
 
