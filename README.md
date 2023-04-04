@@ -1,18 +1,15 @@
 <h2 align="left">Hello there, I am Sora from Germany!</h2>
-<h4 align="left"> I can speak: 🇩🇪, 🇬🇧 and a bit 🇯🇵
 
 ###
 
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&username=SoraTenshi" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&username=SoraTenshi" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-<img align="right" height="150" src="https://cdn.discordapp.com/attachments/481181199151136770/1025773599677751306/SoraNoTenshi_female_angel_flying_in_purple_sky_anime_style_nigh_fde310fc-c242-4682-9b50-cec5dfbb3c7c.png"  /> <!-- Yes this image is ai generated, deal with it :D -->
+<img align="right" height="150" src="https://cdn.discordapp.com/attachments/481181199151136770/1025773599677751306/SoraNoTenshi_female_angel_flying_in_purple_sky_anime_style_nigh_fde310fc-c242-4682-9b50-cec5dfbb3c7c.png"  />
 
 ###
 
@@ -25,11 +22,22 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="30" width="42" alt="vim logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" width="42" alt="visualstudio logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zig/zig-original.svg" height="30" width="42" alt="zig logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="30" width="42" alt="rust logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="30" width="42" alt="rust logo"  />
 </div>
 
 ###
 
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=s0la1337.s0la1337&left_color=darkslategrey&right_color=mediumpurple"  />
+<div align="center">
+  <a href="https://open.spotify.com/user/SoraNoTenshi">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?count=5&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SoraTenshi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SoraTenshi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
 ###
