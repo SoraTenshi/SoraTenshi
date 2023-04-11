@@ -8,7 +8,7 @@
   I am 24 years young and live in Germany!<br>
   You can contact me in German, English as well as Japanese (however, i am not fluent in Japanese yet)<br><br>
   
-  I enjoy Programming Languagesm, Cyber security and generally hacking things for fun!<br>
+  I enjoy Programming Languages, Cyber security and generally hacking things for fun.<br>
   I (semi) actively participate in CTFs and usually enjoy PWN and REV challenges the most.<br>
   <br><br>
 </div>
