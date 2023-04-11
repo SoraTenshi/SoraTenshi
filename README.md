@@ -1,11 +1,16 @@
-<h2 align="left">Hello there, I am Sora from Germany!</h2>
+<h2 align="left">Hello there, I am Sora</h2>
 
 ###
 
 <br clear="both">
 
-<div align="center">
-  And in general, i enjoy Programming Languagesm, Cyber security and generally hacking things for fun!
+<div align="left">
+  I am 24 years young and live in Germany!<br>
+  You can contact me in German, English as well as Japanese (however, i am not fluent in Japanese yet)<br><br>
+  
+  I enjoy Programming Languagesm, Cyber security and generally hacking things for fun!<br>
+  I (semi) actively participate in CTFs and usually enjoy PWN and REV challenges the most.<br>
+  <br><br>
 </div>
 
 ###
