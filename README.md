@@ -5,6 +5,7 @@
 <br clear="both">
 
 <div align="center">
+  And in general, i enjoy Programming Languagesm, Cyber security and generally hacking things for fun!
 </div>
 
 ###
