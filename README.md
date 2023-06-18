@@ -37,6 +37,3 @@
 </div>
 
 ###
-
-[![Custom Helix Branch](https://github-readme-stats.vercel.app/api/pin/?username=soratenshi&repo=helix&show_owner=true)](https://github.com/soratenshi/helix/tree/new-daily-driver)
-[![A small binary literal converter](https://github-readme-stats.vercel.app/api/pin/?username=soratenshi&repo=zconv)](https://github.com/soratenshi/zconv)
